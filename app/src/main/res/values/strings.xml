@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Happy Birthday!</string>
+    <string name="set_name">Set name</string>
+    <string name="set_date_of_birthday">Set date of birthday</string>
+    <string name="show_birthday_screen">Show birthday screen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

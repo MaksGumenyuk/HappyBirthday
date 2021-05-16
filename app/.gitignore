@@ -1,0 +1,13 @@
+.gradle
+local.properties
+.idea/
+.DS_Store
+build/
+*.hprof
+#PagerSlidingModule/
+#PagerSlidingTabStrip/
+*.iml
+gradle/
+release/
+captures
+release
